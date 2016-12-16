@@ -1,0 +1,4 @@
+---
+applications:
+- name: deliveryPipeline
+  memory: 256M
